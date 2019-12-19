@@ -1,2 +1,1 @@
-# techdegree-project-1
- random quote project
+#techdegree project 1 , random quote project
